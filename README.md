@@ -45,3 +45,7 @@ The target label is a categorical air-quality rating with four possible classes.
 5. **Evaluation & diagnostics** — reports accuracy, weighted/unweighted loss, per-class precision/recall/F1, and plots learning curves plus a confusion matrix heatmap.
 
 Feel free to adjust hyperparameters (learning rate, batch size, hidden units, epochs) directly inside the notebook to explore different model behaviours.
+
+## License
+
+This project is released under the [MIT License](LICENSE).
